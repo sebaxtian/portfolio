@@ -1,8 +1,8 @@
-# Portfolio Website - Sebastián Ríos Sabogal
+# Portfolio Website - Sebastian Rios Sabogal
 
-A professional, high-conversion portfolio website for Sebastián Ríos Sabogal, a Data Engineer and DevOps Specialist.
+A professional, high-conversion portfolio website for Sebastian Rios Sabogal, a Data Engineer, DevOps & Full-Stack Specialist.
 
-![Portfolio Preview](assets/images/og-image.jpg)
+![Portfolio Preview](assets/images/og-image.png)
 
 ## 🚀 Features
 
@@ -17,7 +17,7 @@ A professional, high-conversion portfolio website for Sebastián Ríos Sabogal, 
 
 ```
 portfolio/
-├── index.html              # Main HTML file
+├── index.html              # Main production HTML file
 ├── css/
 │   └── styles.css          # Custom CSS styles and animations
 ├── js/
@@ -26,9 +26,16 @@ portfolio/
 │   ├── images/
 │   │   └── favicon.svg     # Site favicon
 │   └── documents/
-│       └── cv-sebastianrioss-esp.pdf
-├── plans/
-│   └── portfolio-website-plan.md  # Detailed planning document
+│       └── .gitkeep        # Placeholder for documents (CV, etc.)
+├── templates/              # Versioned HTML templates
+│   ├── index.v1.html       # Initial version
+│   ├── index.v2.html       # Second iteration
+│   └── index.v3.html       # Third iteration (current base)
+├── plans/                  # Project planning and roadmaps
+│   ├── portfolio-website-plan.md
+│   ├── index-v1-merge-plan.md
+│   └── services-update-plan.md
+├── .gitignore
 └── README.md
 ```
 
@@ -74,6 +81,14 @@ Featured projects:
 - Direct contact information
 - Professional profile links
 - Contact form (mailto)
+
+## 📄 Templates
+
+The project maintains versioned templates to track the evolution of the design and structure:
+
+- **v1**: Initial layout and basic structure.
+- **v2**: Refined design with improved responsiveness.
+- **v3**: Current production-ready template with full feature set.
 
 ## 🎨 Color Palette
 
