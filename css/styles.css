@@ -394,6 +394,7 @@ select:focus {
 }
 
 #mobile-menu:not(.hidden) {
+    display: block !important;
     opacity: 1;
     transform: translateY(0);
 }
