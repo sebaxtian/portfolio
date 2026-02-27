@@ -304,6 +304,11 @@ select:focus {
     }
 }
 
+/* Font Family */
+.mono {
+    font-family: 'JetBrains Mono', monospace;
+}
+
 /* Code Block Style */
 .code-block {
     font-family: 'JetBrains Mono', monospace;
