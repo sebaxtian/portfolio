@@ -1,6 +1,6 @@
 /**
  * Portfolio Website - Main JavaScript
- * Sebastián Ríos Sabogal
+ * Sebastian Rios Sabogal
  * 
  * Features:
  * - Smooth scroll navigation
@@ -381,7 +381,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initialize
     // ============================================
     console.log('Portfolio website initialized successfully');
-    console.log('© Sebastián Ríos Sabogal - 2024');
+    console.log('© Sebastian Rios Sabogal - 2026');
 });
 
 // ============================================
